@@ -1,4 +1,4 @@
-AtcoCode,Direction,PlateCode,Latitude,Longitude,StopLoadDay,RoutesPassingThrough,RoutesPassingThroughCount,OperatorsPassingThrough,OperatorsPassingThroughCount,ShortCommonName_en,ShortCommonName_ga,isRTPI,HasPole,HasShelter,CarouselType,FlagData,StopAccessibility,WheelchairAccessibility
+AtcoCode,Direction,PlateCode,Latitude,Longitude,StopLoadDay,RoutesPassingThrough,RoutesCount,OperatorsPassingThrough,OperatorsCount,ShortCommonName_en,ShortCommonName_ga,isRTPI,HasPole,HasShelter,CarouselType,FlagData,StopAccessibility,WheelchairAccessibility
 8220DB001479,1,1479,53.34591596,-6.269237344,2036," 151, 25, 25a, 25b, 25d, 25x, 26, 37, 39, 39a, 51d, 66, 66a, 66b, 66e, 66x, 67, 67x, 70, 782, 860",21," dublinbus, expressbus, sro",3,Ormond Quay Upper,Cé Urmhumhan Uacht,1,Pole,No Shelter,Trueform,Trueform,1,1
 8220DB001479,0,1479,53.34591596,-6.269237344,2036," 145, 782, 83, 83a",4," dublinbus, sro",2,Ormond Quay Upper,Cé Urmhumhan Uacht,1,Pole,No Shelter,Trueform,Trueform,1,1
 8220DB000400,1,400,53.34484648,-6.253209847,1986," 1, 4, 44, 47, 61, 7, 7a, 824",8," dublinbus, pjmartley",2,Shaw Street,Sráid an tSeáigh,1,Pole,No Shelter,Short Carousel,"Lolly Pop,Stretched",1,1
