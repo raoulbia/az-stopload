@@ -100,7 +100,7 @@ dash_app.layout = html.Div(
                                              'background-image': 'url(https://www.transportforireland.ie/wp-content/themes/transportforireland/assets/img/branding/transport-for-ireland-logo.svg)',
                                              'background-position': 'left',
                                              'background-repeat': 'no-repeat'}) ,
-    html.P(children='Last Updated: 11/10/2021', style={'textAlign': 'center',}),
+    html.P(children='Last Updated: 02/11/2021', style={'textAlign': 'center',}),
     html.P('''
             Search for Bus Stops served by one or more routes. 
             When selecting multiple routes, the application will show stops that
